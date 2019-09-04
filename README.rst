@@ -24,7 +24,9 @@ Getting started on Linux/MacOS
 ElectrumSV is a pure python application forked from Electrum. If you want to use the
 Qt interface, install the Qt dependencies::
 
-    sudo apt-get install python3-pyqt5
+    (LINUX)sudo apt-get install python3-pyqt5
+    
+    (MAC) brew install pyqt5
 
 If you downloaded the source archive (zip or tar.gz), you can run ElectrumSV from its top-level
 directory, without installing it on your system.
